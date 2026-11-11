@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+
+git website.Rproj
+quarto website/quarto website.Rproj
+
+quarto website/.quarto/
+quarto website/**/*.quarto_ipynb
