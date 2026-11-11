@@ -9,3 +9,6 @@ quarto website/quarto website.Rproj
 
 quarto website/.quarto/
 quarto website/**/*.quarto_ipynb
+
+/.quarto/
+**/*.quarto_ipynb
