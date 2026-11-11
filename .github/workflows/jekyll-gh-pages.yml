@@ -29,19 +29,7 @@ jobs:
 
       - run:
           Rscript -e 'install.packages(c("knitr", "rmarkdown", "dplyr", "quarto"))'
-
-      - name: Render slides
-        run: |
-          install.packages(c("mice", "DT", "dygraphs", "ggplot2", "curl", "httr", "plotly", "gtsummary", "purrr", "renv", "magrittr", "countdown"))
-          quarto::quarto_render("slides/lec-1.qmd", output_format = "revealjs")
-          quarto::quarto_render("slides/lec-2.qmd", output_format = "revealjs")
-          quarto::quarto_render("slides/lec-3.qmd", output_format = "revealjs")
-          quarto::quarto_render("slides/lec-4.qmd", output_format = "revealjs")
-        shell: Rscript {0}
-
-      # - run:
-      #     Rscript -e 'quarto::quarto_render("slides/lec-1.qmd", output_format = "revealjs")'
-
+          
       - name: Render Quarto Project
         uses: quarto-dev/quarto-actions/render@v2
         with:
