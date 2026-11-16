@@ -1,0 +1,8 @@
+---
+title: "CV"
+---
+
+## Education
+MSc Applied Data Science, UU | 2025
+
+BSc Psychology, UU | 2024

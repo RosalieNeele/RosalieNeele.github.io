@@ -1,11 +1,21 @@
 ---
-title: "RosalieNeele.github.io"
+title: "Rosalie Neele"
+about: 
+  template: jolla
+  image: images/cosmo.JPEG
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com/RosalieNeele 
 ---
 
-This is a Quarto website.
+*Master student Methodology & Statistics*
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Utrecht University 
 
-```{r}
-11 + 11 + 11
-```
+
+
+- what you do (e.g. expertise, service, product)
+- where people may find you (GitHub, company page, social media platforms, etc.)
+- accomplishments/publications/qualifications/skills etc.
+- detailed curriculum vitae

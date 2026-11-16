@@ -3,12 +3,12 @@ project:
   output-dir: docs
 
 website:
-  title: "RosalieNeele.github.io"
+  title: "Rosalie Neele - Portfolio"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - cv.qmd
 
 format:
   html:
@@ -16,7 +16,6 @@ format:
       - cosmo
       - brand
     css: styles.css
-    toc: true
 
 
 
