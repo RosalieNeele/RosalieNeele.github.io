@@ -1,3 +1,3 @@
-This is the repository for my personal portfolio. This website was created using Quarto and RStudio. 
+This is the repository for my personal portfolio, build using Quarto and RStudio. 
 
-Website link: [https://rosalieneele.github.io]
+Website link: <https://rosalieneele.github.io>
