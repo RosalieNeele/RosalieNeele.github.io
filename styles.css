@@ -1,6 +1,11 @@
 /* css styles */
 
-/* change navbar colour */
+/* font family */
+body {
+  font-family: "merriweather" !important;
+}
+
+/* navbar colour */
 .navbar {
   background-color: #9FAA8B;
   color: rgb(252.84,253.73,254.72);
