@@ -5,9 +5,12 @@ project:
 website:
   title: "Rosalie Neele - Portfolio"
   navbar:
+    background: primary
+    search: true
     left:
       - href: index.qmd
-        text: Home
+        text: " "
+        icon: house-door-fill
       - cv.qmd
 
 format:
