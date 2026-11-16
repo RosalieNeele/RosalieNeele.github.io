@@ -1,6 +1,13 @@
 /* css styles */
 
+/* change navbar colour */
 .navbar {
   background-color: #9FAA8B;
   color: rgb(252.84,253.73,254.72);
+}
+
+/* center title */
+#title-block-header {
+  display: flex;
+  justify-content: center;
 }

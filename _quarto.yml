@@ -9,9 +9,11 @@ website:
     search: true
     left:
       - href: index.qmd
-        text: " "
+        text: "Home"
         icon: house-door-fill
-      - cv.qmd
+      - href: cv.qmd
+        text: "CV"
+        icon: file-person-fill
 
 format:
   html:
