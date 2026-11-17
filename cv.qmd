@@ -8,6 +8,8 @@ title: "Curriculum Vitae"
 
 * MSc Applied Data Science &nbsp; | &nbsp; Utrecht University &nbsp; | &nbsp; 2025
 * BSc Psychology &nbsp; | &nbsp; Utrecht University &nbsp; | &nbsp; 2024
+  * Minor Applied Data Science 
+  * Minor Criminology
 
 :::
 
@@ -16,15 +18,14 @@ title: "Curriculum Vitae"
 
 *
 *
-*
 
 :::
 
 ::: {.skills}
 ## Skills
 
-*
-*
-*
+* Data Science
+* Programming (R & Python)
+* Quantitative Data Analysis 
 
 :::

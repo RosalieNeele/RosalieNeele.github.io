@@ -65,11 +65,24 @@ p {
 }
 
 /* git link */
-a.github-link {
-  color: #856088;
-  text-decoration: none;
+.links {
   margin-top: 1.5rem;
+  display: flex;
+  justify-content: center;
 }
+
+.bi.bi-linkedin {
+  color: #0077B5;
+  font-size: 20px;
+  padding: 0.25rem;
+}
+.bi.bi-github {
+  color: black;
+  font-size: 20px;
+  padding: 0.25rem;
+}
+
+
 
 /* anchor link */
 .anchorjs-link {
@@ -79,4 +92,8 @@ a.github-link {
 /* list type */
 ul {
   list-style-type: circle;
+}
+
+ul ul {
+  list-style-type: square;
 }

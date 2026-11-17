@@ -16,4 +16,10 @@ Utrecht University
 
 :::
 
-[<i class="bi bi-github"></i> GitHub](https://github.com/RosalieNeele){.github-link}
+::: {.links}
+
+[<i class="bi bi-linkedin"></i>](https://www.linkedin.com/in/rosalie-neele/){.link}
+
+[<i class="bi bi-github"></i>](https://github.com/RosalieNeele){.link}
+
+:::
