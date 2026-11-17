@@ -1,21 +1,19 @@
 ---
 title: "Rosalie Neele"
-about: 
-  template: jolla
-  image: images/cosmo.JPEG
-  links: 
-    - icon: github
-      text: Github
-      href: https://github.com/RosalieNeele 
 ---
 
-*Master student Methodology & Statistics*
+![](images/cosmo.jpg){.rounded-circle}
+
+# Rosalie Neele
+
+::: {.info}
+
+Master Student 
+
+*Methodology and Statistics for the Behavioural, Biomedical and Social Sciences*
 
 Utrecht University 
 
+:::
 
-
-- what you do (e.g. expertise, service, product)
-- where people may find you (GitHub, company page, social media platforms, etc.)
-- accomplishments/publications/qualifications/skills etc.
-- detailed curriculum vitae
+[<i class="bi bi-github"></i> GitHub](https://github.com/RosalieNeele){.github-link}
